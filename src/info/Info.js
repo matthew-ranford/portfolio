@@ -54,7 +54,9 @@ export const info = {
     },
     {
       emoji: '📧',
-      text: 'matt.ranford16@gmail.com',
+      text: (
+        <a href="mailto:matt.ranford16@gmail.com">matt.ranford16@gmail.com</a>
+      ),
     },
   ],
   socials: [
