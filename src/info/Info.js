@@ -62,17 +62,22 @@ export const info = {
   socials: [
     {
       link: 'https://github.com/matthew-ranford',
-      icon: 'fa fa-github',
+      icon: 'fa-brands fa-github',
       label: 'github',
     },
     {
       link: 'https://linkedin.com/in/matthew-ranford-23b759261/',
-      icon: 'fa fa-linkedin',
+      icon: 'fa-brands fa-linkedin',
       label: 'linkedin',
     },
     {
+      link: 'https://codepen.io/matthew-ranford',
+      icon: 'fa-brands fa-codepen',
+      label: 'medium',
+    },
+    {
       link: 'https://instagram.com/mattranny/',
-      icon: 'fa fa-instagram',
+      icon: 'fa-brands fa-instagram',
       label: 'instagram',
     },
     // {
