@@ -165,7 +165,7 @@ export const info = {
     {
       title: 'Project 2',
       live: 'https://paytonpierce.dev',
-      source: 'https://github.com/paytonjewell',
+      source: 'https://github.com/roa-2023/Friend-booking',
       image: mock2,
     },
     {
