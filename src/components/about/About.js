@@ -15,7 +15,7 @@ export default function About() {
             {firstName}
             {info.lastName.toLowerCase()} $
           </span>{' '}
-          cat about{firstName}{' '}
+          push about{firstName}{' '}
         </p>
         <p>
           <span style={{ color: info.baseColor }}>

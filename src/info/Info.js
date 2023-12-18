@@ -169,22 +169,24 @@ export const info = {
       image: mock2,
     },
     {
-      title: 'Project 3',
-      live: 'https://paytonpierce.dev',
-      source: 'https://github.com/paytonjewell',
+      title: 'Dev Academy Foundations',
+      live: 'https://matthew-ranford.github.io/',
+      source: 'https://github.com/matthew-ranford/matthew-ranford.github.io',
       image: mock3,
     },
     {
-      title: 'Project 4',
-      live: 'https://paytonpierce.dev',
-      source: 'https://github.com/paytonjewell',
-      image: mock4,
+      title: 'Pre Dev Academy',
+      live: 'https://matthew-ranford.github.io/complete-building-solutions-website-concept/',
+      source:
+        'https://github.com/matthew-ranford/complete-building-solutions-website-concept',
+      image: mock5,
     },
     {
-      title: 'Project 5',
-      live: 'https://paytonpierce.dev',
-      source: 'https://github.com/paytonjewell',
-      image: mock5,
+      title: 'Pre Dev Academy',
+      live: 'https://matthew-ranford.github.io/freecodecamp-personal-portfolio-webpage/',
+      source:
+        'https://github.com/matthew-ranford/freecodecamp-personal-portfolio-webpage',
+      image: mock4,
     },
   ],
 }
