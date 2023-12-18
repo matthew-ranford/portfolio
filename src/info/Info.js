@@ -164,8 +164,8 @@ export const info = {
     },
     {
       title: 'Project 2',
-      live: 'https://paytonpierce.dev',
-      source: 'https://github.com/roa-2023/Friend-booking',
+      // live: 'https://paytonpierce.dev',
+      source: 'https://github.com/matthew-ranford/friend-booking',
       image: mock2,
     },
     {
