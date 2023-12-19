@@ -163,43 +163,54 @@ export const info = {
     // source : // this should be a link to the **repository** of the project, where the code is hosted.
 
     {
-      title: 'Dev Academy - Final Group Project',
+      title: 'Dev Academy Bootcamp - Final Group Project',
       // live: ,
+      description:
+        'An application to create timeslots so that a friend may make an appointment with you',
       source: 'https://github.com/matthew-ranford/friend-booking',
       image: mock2,
     },
     {
-      title: 'Dev Academy - My Project(In Progress)',
+      title: 'Dev Academy Bootcamp/Home - In Progress',
+      description:
+        "A fullstack solo project i'm currently working on to track the items you've lent to people",
       live: 'http://matt-fullstack-wd04.devacademy.nz/',
       source: 'https://github.com/matthew-ranford/item-tracker',
       image: mock7,
     },
     {
-      title: 'Dev Academy - Group Project',
+      title: 'Dev Academy Bootcamp - Group Project',
       // live: ,
+      description:
+        'A fun project which is like whack-a-mole but with aliens & cows',
       source: 'https://github.com/matthew-ranford/dairy-farm-simulator',
       image: mock1,
     },
     {
-      title: 'Dev Academy - Group Project',
+      title: 'Dev Academy Bootcamp - Group Project',
       // live: ,
+      description:
+        'Another fun project which tracked weather information to check soil moisture for worms',
       source: 'https://github.com/matthew-ranford/weather-4-worms',
       image: mock6,
     },
     {
-      title: 'Dev Academy - Group Project',
+      title: 'Dev Academy Bootcamp - Group Project',
       // live: ,
+      description: 'A project to track all food orders within a food court',
       source: 'https://github.com/matthew-ranford/foodcourt',
       image: mock0,
     },
     {
       title: 'Dev Academy Foundations',
+      description: 'My foundations blog created before starting bootcamp',
       live: 'https://matthew-ranford.github.io/',
       source: 'https://github.com/matthew-ranford/matthew-ranford.github.io',
       image: mock3,
     },
     {
       title: 'Pre Dev Academy',
+      description: 'A concept design for a family members business',
       live: 'https://matthew-ranford.github.io/complete-building-solutions-website-concept/',
       source:
         'https://github.com/matthew-ranford/complete-building-solutions-website-concept',
@@ -207,6 +218,8 @@ export const info = {
     },
     {
       title: 'Pre Dev Academy',
+      description:
+        'A portfolio i created while learning through Free Code Camp',
       live: 'https://matthew-ranford.github.io/freecodecamp-personal-portfolio-webpage/',
       source:
         'https://github.com/matthew-ranford/freecodecamp-personal-portfolio-webpage',
