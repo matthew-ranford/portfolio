@@ -1,9 +1,12 @@
 import self from '../img/self.png'
+import mock0 from '../img/mock0.png'
 import mock1 from '../img/mock1.png'
 import mock2 from '../img/mock2.png'
 import mock3 from '../img/mock3.png'
 import mock4 from '../img/mock4.png'
 import mock5 from '../img/mock5.png'
+import mock6 from '../img/mock6.png'
+import mock7 from '../img/mock7.png'
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -156,17 +159,38 @@ export const info = {
   ],
   portfolio: [
     // This is where your portfolio projects will be detailed
+    // live : //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+    // source : // this should be a link to the **repository** of the project, where the code is hosted.
+
     {
-      title: 'Project 1',
-      live: 'https://paytonpierce.dev', //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-      source: 'https://github.com/paytonjewell', // this should be a link to the **repository** of the project, where the code is hosted.
+      title: 'Dev Academy - Final Group Project',
+      // live: ,
+      source: 'https://github.com/matthew-ranford/friend-booking',
+      image: mock2,
+    },
+    {
+      title: 'Dev Academy - My Project(In Progress)',
+      live: 'http://matt-fullstack-wd04.devacademy.nz/',
+      source: 'https://github.com/matthew-ranford/item-tracker',
+      image: mock7,
+    },
+    {
+      title: 'Dev Academy - Group Project',
+      // live: ,
+      source: 'https://github.com/matthew-ranford/dairy-farm-simulator',
       image: mock1,
     },
     {
-      title: 'Project 2',
-      // live: 'https://paytonpierce.dev',
-      source: 'https://github.com/matthew-ranford/friend-booking',
-      image: mock2,
+      title: 'Dev Academy - Group Project',
+      // live: ,
+      source: 'https://github.com/matthew-ranford/weather-4-worms',
+      image: mock6,
+    },
+    {
+      title: 'Dev Academy - Group Project',
+      // live: ,
+      source: 'https://github.com/matthew-ranford/foodcourt',
+      image: mock0,
     },
     {
       title: 'Dev Academy Foundations',
