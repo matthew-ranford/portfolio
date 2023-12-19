@@ -172,9 +172,9 @@ export const info = {
     },
     {
       title: 'Dev Academy Bootcamp/Home - In Progress',
+      live: 'http://matt-fullstack-wd04.devacademy.nz/',
       description:
         "A fullstack solo project i'm currently working on to track the items you've lent to people",
-      live: 'http://matt-fullstack-wd04.devacademy.nz/',
       source: 'https://github.com/matthew-ranford/item-tracker',
       image: mock7,
     },
@@ -203,24 +203,24 @@ export const info = {
     },
     {
       title: 'Dev Academy Foundations',
-      description: 'My foundations blog created before starting bootcamp',
       live: 'https://matthew-ranford.github.io/',
+      description: 'My foundations blog created before starting bootcamp',
       source: 'https://github.com/matthew-ranford/matthew-ranford.github.io',
       image: mock3,
     },
     {
       title: 'Pre Dev Academy',
-      description: 'A concept design for a family members business',
       live: 'https://matthew-ranford.github.io/complete-building-solutions-website-concept/',
+      description: 'A concept design for a family members business',
       source:
         'https://github.com/matthew-ranford/complete-building-solutions-website-concept',
       image: mock5,
     },
     {
       title: 'Pre Dev Academy',
+      live: 'https://matthew-ranford.github.io/freecodecamp-personal-portfolio-webpage/',
       description:
         'A portfolio i created while learning through Free Code Camp',
-      live: 'https://matthew-ranford.github.io/freecodecamp-personal-portfolio-webpage/',
       source:
         'https://github.com/matthew-ranford/freecodecamp-personal-portfolio-webpage',
       image: mock4,
