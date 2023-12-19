@@ -11,7 +11,12 @@ import mock7 from '../img/mock7.png'
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
-export let colors = ['rgb(15, 129, 164)', 'rgb(1, 1, 1)']
+export let colors = ['rgb(68, 163, 3)', 'rgb(17, 190, 207)']
+
+/*
+ * Created with https://www.css-gradient.com
+ * Gradient link: https://www.css-gradient.com/?c1=44a303&c2=11becf&gt=l&gd=dtl
+ */
 
 /*
  * Created with https://www.css-gradient.com
