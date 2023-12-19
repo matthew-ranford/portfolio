@@ -96,7 +96,7 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Hello! I'm Matt. I'm a Full-Stack Developer who has just completed a 17-week intensive boot camp learning full-stack software development at Dev Academy. This was one of the biggest challenges of my life, diving into the unknown, I still have a lot to learn and I'm excited to see where my career in tech takes me!",
+  bio: "Hello! I'm Matt. I'm a Full-Stack Developer whose recently completed a 17-week intensive boot camp learning full-stack software development at Dev Academy. I've tried various roles in my life, none of them have stuck so this was one of the biggest challenges of my life, diving into the unknown. I still have a lot to learn, but I'm excited to see where my career in tech takes me!",
   skills: {
     proficientWith: [
       'HTML5',
