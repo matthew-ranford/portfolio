@@ -23,7 +23,7 @@ export default function Home() {
         style={{ background: info.gradient }}
         component={'img'}
         src={me}
-        width={{ xs: '35vh', md: '45vh' }}
+        width={{ xs: '35vh', md: '42vh' }}
         height={{ xs: '35vh', md: '40vh' }}
         borderRadius={'50%'}
         p={'0.75rem'}
