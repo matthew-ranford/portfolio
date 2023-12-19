@@ -5,6 +5,8 @@ import { Link, useLocation } from 'react-router-dom'
 import { Box } from '@mui/material'
 import { info } from '../info/Info'
 
+import pdfFile from '../img/matt-resume.pdf'
+
 const links = [
   {
     name: 'Home',
@@ -74,11 +76,7 @@ export default function Navbar({ darkMode, handleClick }) {
           </Box>
         ))}
         <li>
-          <a
-            href="https://drive.google.com/file/d/1Bq6vMNXP1ZAEKyPiZd2tuLML_euJTkQ_/view?usp=drive_link"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href={pdfFile} target="_blank" rel="noreferrer">
             Résumé
           </a>
         </li>
