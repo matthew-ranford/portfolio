@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/home/static/css/main.1ac03d81.css",
-    "main.js": "/portfolio/home/static/js/main.ed88a1dd.js",
-    "static/media/mock1.png": "/portfolio/home/static/media/mock1.e97112706918c0b813d3.png",
-    "static/media/mock2.png": "/portfolio/home/static/media/mock2.b812026e727bb70c5d5c.png",
-    "static/media/mock3.png": "/portfolio/home/static/media/mock3.2cd08c705baa38ff555f.png",
-    "static/media/mock5.png": "/portfolio/home/static/media/mock5.b17e277138470eec7956.png",
-    "static/media/mock6.png": "/portfolio/home/static/media/mock6.eb175a3c3e75d4255fbd.png",
-    "static/media/mock4.png": "/portfolio/home/static/media/mock4.8f9c5ff79372df6cb9e6.png",
-    "static/media/self.png": "/portfolio/home/static/media/self.e02d7aef786815de5d33.png",
-    "static/media/mock0.png": "/portfolio/home/static/media/mock0.163bd77159fda2096a38.png",
-    "static/media/mock7.png": "/portfolio/home/static/media/mock7.5715b6ae9a5a81973334.png",
-    "index.html": "/portfolio/home/index.html",
-    "main.1ac03d81.css.map": "/portfolio/home/static/css/main.1ac03d81.css.map",
-    "main.ed88a1dd.js.map": "/portfolio/home/static/js/main.ed88a1dd.js.map"
+    "main.css": "/portfolio/static/css/main.1ac03d81.css",
+    "main.js": "/portfolio/static/js/main.acb9925d.js",
+    "static/media/mock1.png": "/portfolio/static/media/mock1.e97112706918c0b813d3.png",
+    "static/media/mock2.png": "/portfolio/static/media/mock2.b812026e727bb70c5d5c.png",
+    "static/media/mock3.png": "/portfolio/static/media/mock3.2cd08c705baa38ff555f.png",
+    "static/media/mock5.png": "/portfolio/static/media/mock5.b17e277138470eec7956.png",
+    "static/media/mock6.png": "/portfolio/static/media/mock6.eb175a3c3e75d4255fbd.png",
+    "static/media/mock4.png": "/portfolio/static/media/mock4.8f9c5ff79372df6cb9e6.png",
+    "static/media/self.png": "/portfolio/static/media/self.e02d7aef786815de5d33.png",
+    "static/media/mock0.png": "/portfolio/static/media/mock0.163bd77159fda2096a38.png",
+    "static/media/mock7.png": "/portfolio/static/media/mock7.5715b6ae9a5a81973334.png",
+    "index.html": "/portfolio/index.html",
+    "main.1ac03d81.css.map": "/portfolio/static/css/main.1ac03d81.css.map",
+    "main.acb9925d.js.map": "/portfolio/static/js/main.acb9925d.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac03d81.css",
-    "static/js/main.ed88a1dd.js"
+    "static/js/main.acb9925d.js"
   ]
 }
