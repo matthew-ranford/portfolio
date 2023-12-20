@@ -7,6 +7,7 @@ import mock4 from '../img/mock4.png'
 import mock5 from '../img/mock5.png'
 import mock6 from '../img/mock6.png'
 import mock7 from '../img/mock7.png'
+import mock8 from '../img/mock8.png'
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -182,6 +183,14 @@ export const info = {
         "A fullstack solo project i'm currently working on to track the items you've lent to people",
       source: 'https://github.com/matthew-ranford/item-tracker',
       image: mock7,
+    },
+    {
+      title: 'Dev Academy Bootcamp - Group Project',
+      // live: ,
+      description:
+        'A teacher-led project focusing on creating and completing quizzes along with TDD',
+      source: 'https://github.com/matthew-ranford/quizzicle',
+      image: mock8,
     },
     {
       title: 'Dev Academy Bootcamp - Group Project',
