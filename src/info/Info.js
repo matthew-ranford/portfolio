@@ -169,20 +169,20 @@ export const info = {
     // source : // this should be a link to the **repository** of the project, where the code is hosted.
 
     {
+      title: 'Dev Academy Bootcamp/Home - In Progress',
+      // live: 'http://matt-fullstack-wd04.devacademy.nz/',
+      description:
+        "A fullstack solo project i'm currently working on to track the items you've lent to people",
+      source: 'https://github.com/matthew-ranford/item-tracker',
+      image: mock7,
+    },
+    {
       title: 'Dev Academy Bootcamp - Final Group Project',
       // live: ,
       description:
         'An application to create timeslots so that a friend may make an appointment with you',
       source: 'https://github.com/matthew-ranford/friend-booking',
       image: mock2,
-    },
-    {
-      title: 'Dev Academy Bootcamp/Home - In Progress',
-      live: 'http://matt-fullstack-wd04.devacademy.nz/',
-      description:
-        "A fullstack solo project i'm currently working on to track the items you've lent to people",
-      source: 'https://github.com/matthew-ranford/item-tracker',
-      image: mock7,
     },
     {
       title: 'Dev Academy Bootcamp - Group Project',
