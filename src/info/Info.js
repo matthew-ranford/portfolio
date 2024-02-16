@@ -8,6 +8,7 @@ import mock5 from '../img/mock5.png'
 import mock6 from '../img/mock6.png'
 import mock7 from '../img/mock7.png'
 import mock8 from '../img/mock8.png'
+import mock9 from '../img/mock9.png'
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -169,10 +170,19 @@ export const info = {
     // source : // this should be a link to the **repository** of the project, where the code is hosted.
 
     {
-      title: 'Dev Academy Bootcamp/Home - In Progress',
+      title: 'Business Website - In Progress',
+      // live: ,
+      description:
+        "A business website i'm working on for a friend which is in its initial stage",
+      source: 'https://github.com/matthew-ranford/fresh-and-faded',
+      image: mock9,
+    },
+
+    {
+      title: 'Dev Academy Bootcamp/Home',
       // live: 'http://matt-fullstack-wd04.devacademy.nz/',
       description:
-        "A fullstack solo project i'm currently working on to track the items you've lent to people",
+        "A fullstack solo project i've been working on to track the items you've lent to people",
       source: 'https://github.com/matthew-ranford/item-tracker',
       image: mock7,
     },
