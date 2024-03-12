@@ -5,7 +5,7 @@ import { Link, useLocation } from 'react-router-dom'
 import { Box } from '@mui/material'
 import { info } from '../info/Info'
 
-import pdfFile from '../img/matt-resume.pdf'
+import pdfFile from '../img/matt-software-dev-cv.pdf'
 
 const links = [
   {

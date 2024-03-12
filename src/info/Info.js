@@ -171,7 +171,7 @@ export const info = {
 
     {
       title: 'Business Website - In Progress',
-      // live: ,
+      live: 'https://matthew-ranford.github.io/fresh-and-faded/',
       description:
         "A business website i'm working on for a friend which is in its initial stage",
       source: 'https://github.com/matthew-ranford/fresh-and-faded',
