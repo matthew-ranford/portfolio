@@ -9,6 +9,7 @@ import mock6 from '../img/mock6.png'
 import mock7 from '../img/mock7.png'
 import mock8 from '../img/mock8.png'
 import mock9 from '../img/mock9.png'
+import mock10 from '../img/mock10.png'
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -168,6 +169,14 @@ export const info = {
     // This is where your portfolio projects will be detailed
     // live : //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
     // source : // this should be a link to the **repository** of the project, where the code is hosted.
+    {
+      title: 'Business Website - In Progress',
+      // live: 'https://matthew-ranford.github.io/attention-to-detail/',
+      description:
+        "Another business website i'm working on for a friend which is in its initial stage",
+      source: 'https://github.com/matthew-ranford/attention-to-detail',
+      image: mock10,
+    },
 
     {
       title: 'Business Website - In Progress',
